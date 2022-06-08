@@ -22,3 +22,5 @@
 [google.maps](https://www.google.de/maps/uv?pb=!1s0x478a6c1d02b39469%3A0xce80b54d82cfdf3a!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNFC94Umatx1xS1Z4lXmFuyBHsDYtslY8GV9G0B%3Dw260-h175-n-k-no!5spetit%20dejeuner%20bourg%20d%27oisans%20-%20Google%20Suche!15sCgIgAQ&imagekey=!1e10!2sAF1QipNFC94Umatx1xS1Z4lXmFuyBHsDYtslY8GV9G0B&hl=de)
 
 - Café des Negociants: [google.maps](https://www.google.de/maps/uv?pb=!1s0x478a6c1ce5e4f5a3%3A0xbb9e4f08effb5d94!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNf5lyAonMFa84No9NyUEEAxOyIMWcqV-fpYSS8%3Dw260-h175-n-k-no!5sle%20bar%20des%20negociants%20bourg%20d%27oisans%20-%20Google%20Suche!15sCgIgAQ&imagekey=!1e10!2sAF1QipNf5lyAonMFa84No9NyUEEAxOyIMWcqV-fpYSS8&hl=de)
+
+- Café de Paris: [google.maps](https://www.google.de/maps/uv?pb=!1s0x478a6c1d22991b1d%3A0x2f703d0c5e9b4408!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN3b3uE-SVX9FYRU41ZUzhUuuhWGNMFMfivVZro%3Dw130-h87-n-k-no!5scafe%20bourg%20d%27oisans%20-%20Google%20Suche!15sCgIgAQ&imagekey=!1e10!2sAF1QipPRY3bFUFzrzZ526jXG35s7QDZR4fkBXW9eqvmk&hl=de)
